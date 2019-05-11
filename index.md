@@ -4,4 +4,4 @@
 I'm going to be discussing things with words 
 and there will be talk of discussions! :alien:
 
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
