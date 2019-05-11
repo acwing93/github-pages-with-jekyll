@@ -1,3 +1,5 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+I'm going to be discussing things with words 
+and there will be talk of discussions! :crystalball:
+
