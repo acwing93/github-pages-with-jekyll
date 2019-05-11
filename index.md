@@ -1,4 +1,4 @@
-# theme: jekyll-theme-minimal
+# theme: minima
 # Welcome to my blog
 
 I'm going to be discussing things with words 
